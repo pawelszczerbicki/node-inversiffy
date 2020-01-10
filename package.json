@@ -15,7 +15,6 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "request": "^2.88.0",
-    "request-promise-native": "^1.0.8",
     "reflect-metadata": "^0.1.13",
     "inversify": "^5.0.1",
     "inversify-express-utils": "^6.3.2"

@@ -18,7 +18,6 @@ export class HomeController implements interfaces.Controller {
         return {msg: "Hello"};
     }
 
-
     @httpPost("/user")
     private async saveUser(req: Request, res: Response, next: NextFunction) {
         return this.userService.save(req.body);
