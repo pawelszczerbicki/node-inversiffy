@@ -13,11 +13,11 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "request": "^2.88.0",
     "reflect-metadata": "^0.1.13",
     "inversify": "^5.0.1",
-    "inversify-express-utils": "^6.3.2"
+    "inversify-express-utils": "^6.4.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
